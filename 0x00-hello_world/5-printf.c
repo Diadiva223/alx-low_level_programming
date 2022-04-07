@@ -1,6 +1,6 @@
 #include  <studio.h>
 /**
- *main -Entry point
+ *main - Entry point
  *My hello, printf task
  *Return: return 1 after program execution
  */
