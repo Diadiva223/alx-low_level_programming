@@ -21,8 +21,9 @@ putchar((digit2 % 10) + '0');
 
 {
 if (digit1 == 8 && digit2 == 9)
-continue;
 }
+continue;
+
 
 
 putchar('\n');
