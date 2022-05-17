@@ -1,0 +1,1 @@
+my readmr for 0x0f
